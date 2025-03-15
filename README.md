@@ -1,7 +1,7 @@
 [<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://badge.race-of-sloths.com/TheSunShiningDev?theme=dark&wallet=awoken.near">
-    <source media="(prefers-color-scheme: light)" srcset="https://badge.race-of-sloths.com/TheSunShiningDev?theme=light&wallet=awoken.near">
-    <img alt="Shows profile image on the Race-of-Sloths" src="https://badge.race-of-sloths.com/TheSunShiningDev?wallet=awoken.near">
+    <source media="(prefers-color-scheme: dark)" srcset="https://badge.race-of-sloths.com/TheSunShiningDev?theme=dark&wallet=axemen.near">
+    <source media="(prefers-color-scheme: light)" srcset="https://badge.race-of-sloths.com/TheSunShiningDev?theme=light&wallet=axemen.near">
+    <img alt="Shows profile image on the Race-of-Sloths" src="https://badge.race-of-sloths.com/TheSunShiningDev?wallet=axemen.near">
 </picture>
 ](https://race-of-sloths.com/profile/TheSunShiningDev)
 
