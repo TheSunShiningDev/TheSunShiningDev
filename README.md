@@ -1,7 +1,7 @@
 [<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://badge.race-of-sloths.com/TheSunShiningDev?theme=dark&wallet=cransburner.near">
-    <source media="(prefers-color-scheme: light)" srcset="https://badge.race-of-sloths.com/TheSunShiningDev?theme=light&wallet=cransburner.near">
-    <img alt="Shows profile image on the Race-of-Sloths" src="https://badge.race-of-sloths.com/TheSunShiningDev?wallet=cransburner.near">
+    <source media="(prefers-color-scheme: dark)" srcset="https://badge.race-of-sloths.com/TheSunShiningDev?theme=dark&wallet=aalii.near">
+    <source media="(prefers-color-scheme: light)" srcset="https://badge.race-of-sloths.com/TheSunShiningDev?theme=light&wallet=aalii.near">
+    <img alt="Shows profile image on the Race-of-Sloths" src="https://badge.race-of-sloths.com/TheSunShiningDev?wallet=aalii.near">
 </picture>
 ](https://race-of-sloths.com/profile/TheSunShiningDev)
 
