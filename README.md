@@ -9,7 +9,7 @@ Dev @ Organizations
 - [Sun Electron](https://github.com/sun-electron) My Electron Desktop app playground
 - [Color Snake](https://github.com/color-snake) Color Playground
 - [@RUGFACTORY](https://github.com/rugfactory) Near Token Playground
-- - [@stick-y-notes](https://github.com/stick-y-notes) JSON based productivity
+- [@stick-y-notes](https://github.com/stick-y-notes) JSON based productivity
 
 ---
 
