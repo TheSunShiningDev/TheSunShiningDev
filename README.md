@@ -8,7 +8,6 @@ Dev @ Organizations
 - [@Sleet](https://gitlab.com/sleet-dev) Gitlab - [@Sleet](https://github.com/sleetplayground) Github
 - [Sun Electron](https://github.com/sun-electron) My Electron Desktop app playground
 - [Color Snake](https://github.com/color-snake) Color Playground
-- [@RUGFACTORY](https://github.com/rugfactory) Near Token Playground
 - [@web3stick](https://github.com/web3stick) JSON based productivity
 
 ---
